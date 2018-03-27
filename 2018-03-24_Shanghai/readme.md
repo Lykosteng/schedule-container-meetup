@@ -24,7 +24,7 @@
 ![2](https://user-images.githubusercontent.com/6755791/37960387-2398253e-31e8-11e8-84b7-47db9e302ad6.jpg)
 ![3](https://user-images.githubusercontent.com/6755791/37960389-23cab562-31e8-11e8-8754-cf1c5537b67a.jpg)
 
-⏬讲师 slides 下载请点击：
+⏬讲师 slides 下载请点击：https://github.com/Lykosteng/schedule-container-meetup/blob/master/2018-03-24_Shanghai/%E9%BB%84%E7%8E%89%E5%A5%87%E3%80%8Akubernetes%20%E5%BA%94%E7%94%A8%E6%B5%81%E9%87%8F%E7%AE%A1%E7%90%86%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%AE%9E%E8%B7%B5%E3%80%8B.pdf
 
 紧接着是阿里巴巴自有开源容器技术的技术分享，嘉宾是 docker maintainer 孙宏亮。
 
@@ -37,7 +37,7 @@
 ![5](https://user-images.githubusercontent.com/6755791/37960393-252854c8-31e8-11e8-9300-ae43b4adda60.jpg)
 ![6](https://user-images.githubusercontent.com/6755791/37960394-255d7838-31e8-11e8-82ff-fcf1112f2c1c.jpg)
 
-⏬讲师 slides 下载请点击：
+⏬讲师 slides 下载请点击：https://github.com/Lykosteng/schedule-container-meetup/blob/master/2018-03-24_Shanghai/%E5%AD%99%E5%AE%8F%E4%BA%AE%E3%80%8A%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AF%8C%E5%AE%B9%E5%99%A8%E5%BC%95%E6%93%8E%E6%8A%80%E6%9C%AF%20PouchContainer%20%E8%AF%A6%E8%A7%A3%E3%80%8B.pdf
 
 第三位讲师则是围绕 Mesos Container 开讲的容器化实践分享，感谢倾囊分享的讲师李冬。
 
@@ -49,7 +49,7 @@
 ![8](https://user-images.githubusercontent.com/6755791/37960396-25ccf2bc-31e8-11e8-8bd9-c2609abf1c15.jpg)
 ![9](https://user-images.githubusercontent.com/6755791/37960397-2600919e-31e8-11e8-8bef-efdb8571ed1a.jpg)
 
-⏬讲师 slides 下载请点击：
+⏬讲师 slides 下载请点击：https://github.com/Lykosteng/schedule-container-meetup/blob/master/2018-03-24_Shanghai/%E6%9D%8E%E5%86%AC%E3%80%8A%20Mesos%20Container%20%E5%9C%A8%20360%20%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E5%BA%94%E7%94%A8%E3%80%8B.pdf
 
 最后一位讲师是 YARN 最早期的工程师，Hadoop YARN Committer，base 在美国的何剑。
 
@@ -62,7 +62,7 @@
 ![11](https://user-images.githubusercontent.com/6755791/37960399-267d4720-31e8-11e8-9ab1-f4418892612f.jpg)
 ![12](https://user-images.githubusercontent.com/6755791/37960400-26b1ba82-31e8-11e8-8be5-2ac5706def83.jpg)
 
-⏬讲师 slides 下载请点击：
+⏬讲师 slides 下载请点击：https://github.com/Lykosteng/schedule-container-meetup/blob/master/2018-03-24_Shanghai/%E4%BD%95%E5%89%91%E3%80%8A%20HADOOP%20YARN%20%E7%9A%84%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6%E5%92%8C%E6%9C%AA%E6%9D%A5%E3%80%8B.pdf
 
 各位讲师的速记、视频将于近日在阿里系统软件技术微信公众号发布，敬请关注。
 
