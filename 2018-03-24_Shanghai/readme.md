@@ -14,7 +14,7 @@
 
 ![0324-all](https://user-images.githubusercontent.com/6755791/37960772-0d9b87c0-31e9-11e8-875f-825af4fc8d52.jpg)
 
-调度和容器的话题离不开 kubernetes，第一位嘉宾是早在（？）年参与 kubernetes 社区的黄玉奇。
+调度和容器的话题离不开 kubernetes，第一位嘉宾是很早便参与 kubernetes 社区的黄玉奇。
 
 ![1](https://user-images.githubusercontent.com/6755791/37960764-0801ac9a-31e9-11e8-8c1f-b1e36998576f.JPG)
 
@@ -26,7 +26,7 @@
 
 ⏬讲师 slides 下载请点击：https://github.com/Lykosteng/schedule-container-meetup/blob/master/2018-03-24_Shanghai/%E9%BB%84%E7%8E%89%E5%A5%87%E3%80%8Akubernetes%20%E5%BA%94%E7%94%A8%E6%B5%81%E9%87%8F%E7%AE%A1%E7%90%86%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%AE%9E%E8%B7%B5%E3%80%8B.pdf
 
-紧接着是阿里巴巴自有开源容器技术的技术分享，嘉宾是 docker maintainer 孙宏亮。
+紧接着是阿里巴巴自有开源容器技术的技术分享，嘉宾是 Docker Maintainer 孙宏亮。
 
 ![2](https://user-images.githubusercontent.com/6755791/37960765-0834dbf6-31e9-11e8-8280-2485e73bd91c.JPG)
 
